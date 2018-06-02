@@ -1,6 +1,5 @@
 #! python3
-# sweepstrike.py - Creates world cup tuples with questions and answers in
-# random order, along with the question key.
+# sweepstrike.py - Creates world cup tuples with people and countiries in random order
 import random
 import itertools
 import time
