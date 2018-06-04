@@ -1,5 +1,5 @@
 #! python3
-# sweepstrike.py - Creates world cup tuples with people and countiries in random order
+# sweepstake.py - Creates world cup tuples with people and countiries in random order
 import random
 import itertools
 import time
